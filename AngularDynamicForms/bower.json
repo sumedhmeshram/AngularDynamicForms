@@ -1,0 +1,7 @@
+﻿{
+  "name": "AngularDynamicForms",
+  "dependencies": {
+    "angular": "~1.4.3",
+    "bootstrap": "~3.3.5"
+  }
+}
